@@ -1,4 +1,6 @@
-.h1 {
+@charset "utf-8";
+
+h1 {
   color: #ff0000;
   text-shadow: 1px 1px 2px red;
 }
