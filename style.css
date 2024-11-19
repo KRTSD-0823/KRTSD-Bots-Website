@@ -1,8 +1,14 @@
 @charset "utf-8";
 
+@font-face : {
+  font-family: "dot";
+  src: url("./fonts/JF-Dot-K12.ttf");
+}
+
 header {
   color: white;
   background-color: #c8;
+  font-size: 20px;
   padding: 10px;
   position: relative;
 }
