@@ -8,8 +8,10 @@
 header {
   color: white;
   background-color: #c8;
+  font-family: "dot";
   font-size: 20px;
   padding: 10px;
+  float: left;
   position: relative;
 }
 
