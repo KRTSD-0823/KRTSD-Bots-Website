@@ -23,3 +23,9 @@ h1 {
   float: left;
   top: 0;
 }
+
+.header button {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
