@@ -15,13 +15,11 @@ h1 {
 }
 
 .header button {
-  background-color: #c8c8c8;
+  border: 5px;
   background: #808080;
   color: white;
   font-size: 50px;
   font-family: "dot";
   float: left;
-  top: 0;
-  left: 0;
   padding: 0px 10px 10px 5px;
 }
