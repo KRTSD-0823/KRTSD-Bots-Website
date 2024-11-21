@@ -14,17 +14,14 @@ h1 {
   text-shadow: 1px 1px 2px red;
 }
 
-.header {
-  background-color: #c8c8c8;
-  top: 0;
-  left: 0;
-}
-
 .header button {
+  background-color: #c8c8c8;
   background: #808080;
   color: white;
-  font-family: "dot";
   font-size: 50px;
-  padding: 0px 10px 10px 5px;
+  font-family: "dot";
   float: left;
+  top: 0;
+  left: 0;
+  padding: 0px 10px 10px 5px;
 }
