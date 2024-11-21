@@ -20,7 +20,7 @@ h1 {
   left: 0;
 }
 
-button.header {
+.header button {
   color: white;
   font-family: "dot";
   font-size: 20px;
