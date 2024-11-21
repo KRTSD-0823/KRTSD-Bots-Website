@@ -19,13 +19,8 @@ h1 {
   background-color: #c8c8c8;
   font-family: "dot";
   font-size: 20px;
-  padding: 10px;
+  padding-left: 10px;
   float: left;
   top: 0;
-}
-
-button.header {
-  border: none;
-  outline: none;
-  box-shadow: none;
+  left: 0;
 }
