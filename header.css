@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-@font-face : {
+@font-face {
   font-family: "dot";
-  src: url("fonts/JF-Dot-K12.ttf") format("truetype");
+  src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
 }
 
 .header {
