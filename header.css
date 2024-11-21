@@ -5,7 +5,7 @@
   src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
 }
 
-.header {
+header {
   color: white;
   background-color: #c8c8c8;
   font-family: "dot";
