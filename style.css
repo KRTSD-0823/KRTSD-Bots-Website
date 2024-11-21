@@ -5,7 +5,7 @@
   src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
 }
 
-body {
+* {
   position: relative;
 }
 
