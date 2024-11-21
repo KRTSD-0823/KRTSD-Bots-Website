@@ -15,12 +15,15 @@ h1 {
 }
 
 .header {
-  color: white;
   background-color: #c8c8c8;
-  font-family: "dot";
-  font-size: 20px;
-  padding-left: 10px;
-  float: left;
   top: 0;
   left: 0;
+}
+
+button.header {
+  color: white;
+  font-family: "dot";
+  font-size: 20px;
+  padding: 10px;
+  float: left;
 }
