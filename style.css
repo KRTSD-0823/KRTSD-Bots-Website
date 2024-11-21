@@ -1,6 +1,24 @@
 @charset "utf-8";
 
+@font-face {
+  font-family: "dot";
+  src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
+}
+
+body {
+  position: relative;
+}
+
 h1 {
   color: red;
   text-shadow: 1px 1px 2px red;
+}
+
+.header {
+  color: white;
+  background-color: #c8c8c8;
+  font-family: "dot";
+  font-size: 20px;
+  padding: 10px;
+  float: left;
 }
