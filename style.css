@@ -23,11 +23,11 @@ h1 {
 }
 
 .header button:hover {
-  border: solid 2.5px #c8c8c8;
+  border: solid 2.5px;
   background: #969696;
 }
 
 .header button:active {
-  border: solid 2.5px #afafaf;
+  border: solid 2.5px;
   background: #646464;
 }
