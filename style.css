@@ -15,11 +15,21 @@ h1 {
 }
 
 .header button {
-  border: 5px;
-  background: #808080;
+  border: solid 5px #BEBEBE;
+  background: #C8C8C8;
   color: white;
-  font-size: 50px;
+  font-size: 30px;
   font-family: "dot";
   float: left;
-  padding: 0px 10px 10px 5px;
+  padding: 0px 25px 10px 5px;
+}
+
+.header button:hover {
+  border: solid 5px #AFAFAF;
+  background: #A5A5A5;
+}
+
+.header button:active {
+  border: solid 5px #969696;
+  background: #8C8C8C;
 }
