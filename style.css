@@ -18,12 +18,12 @@ h1 {
   padding: 10px;
 }
 
-.header button:hover {
+.header:hover {
   border: solid 2.5px #c8c8c8;
   background: #969696;
 }
 
-.header button:active {
+.header:active {
   border: solid 2.5px #afafaf;
   background: #646464;
 }
