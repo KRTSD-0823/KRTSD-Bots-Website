@@ -1,9 +1,10 @@
 @charset "utf-8";
 
-@font-face {
+/*没*/
+/*@font-face {
   font-family: "dot";
   src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
-}
+}*/
 
 * {
   position: relative;
