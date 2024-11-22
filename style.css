@@ -9,7 +9,7 @@ h1 {
   text-shadow: 1px 1px 2px red;
 }
 
-.header button {
+button {
   border: solid 2.5px #000000;
   background: #c8c8c8;
   color: white;
@@ -18,12 +18,12 @@ h1 {
   padding: 10px;
 }
 
-.header:hover {
+button :hover {
   border: solid 2.5px #c8c8c8;
   background: #969696;
 }
 
-.header:active {
+button :active {
   border: solid 2.5px #afafaf;
   background: #646464;
 }
