@@ -1,11 +1,5 @@
 @charset "utf-8";
 
-/*没*/
-/*@font-face {
-  font-family: "dot";
-  src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
-}*/
-
 * {
   position: relative;
 }
@@ -20,7 +14,6 @@ h1 {
   background: #c8c8c8;
   color: white;
   font-size: 20px;
-  /*font-family: "dot";*/
   float: left;
   padding: 0px 25px 10px 5px;
 }
