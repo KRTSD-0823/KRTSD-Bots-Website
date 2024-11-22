@@ -4,26 +4,30 @@
   position: relative;
 }
 
-h1 {
-  color: red;
-  text-shadow: 1px 1px 2px red;
-}
-
-header {
-  border: solid 2.5px #000000;
-  background: #c8c8c8;
-  color: white;
-  font-size: 20px;
+.header {
+  background-color: #e6e6e6;
   float: left;
   padding: 10px;
 }
 
-button:hover {
-  border: solid 2.5px #c8c8c8;
-  background: #969696;
+.header button {
+  background: #c8c8c8;
+  border: solid 2.5px #000000;
+  font-size: 20px;
+  color: white;
 }
 
-button:active {
-  border: solid 2.5px #afafaf;
+.header button:hover {
+  background: #969696;
+  border: solid 2.5px #000000;
+}
+
+.header button:active {
   background: #646464;
+  border: solid 2.5px #000000;
+}
+
+.content li {
+  font-size: 30px;
+  font-weight: bold;
 }
