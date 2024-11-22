@@ -1,10 +1,5 @@
 @charset "utf-8";
 
-@font-face {
-  font-family: "dot";
-  src: url("./fonts/JF-Dot-K12.ttf") format("truetype");
-}
-
 * {
   position: relative;
 }
@@ -14,22 +9,21 @@ h1 {
   text-shadow: 1px 1px 2px red;
 }
 
-.header button {
-  border: solid 10px #000000;
+button {
+  border: solid 2.5px #000000;
   background: #c8c8c8;
   color: white;
-  font-size: 30px;
-  font-family: "dot";
+  font-size: 20px;
   float: left;
-  padding: 0px 25px 10px 5px;
+  padding: 10px;
 }
 
-.header button:hover {
-  border: solid 10px #b4b4b4;
-  background: #a0a0a0;
+button :hover {
+  border: solid 2.5px #c8c8c8;
+  background: #969696;
 }
 
-.header button:active {
-  border: solid 10px #8c8c8c;
-  background: #787878;
+button :active {
+  border: solid 2.5px #afafaf;
+  background: #646464;
 }
