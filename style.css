@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+* {
+  position: relative;
+}
+
 .header {
   background-color: #e6e6e6;
   float: left;
