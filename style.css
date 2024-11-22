@@ -9,13 +9,17 @@ h1 {
   text-shadow: 1px 1px 2px red;
 }
 
+.header {
+  background-color: #e6e6e6;
+  font-size: 20px;
+  color: white;
+  float: left;
+  padding: 10px;
+}
+
 .header button {
   border: solid 2.5px #000000;
   background: #c8c8c8;
-  color: white;
-  font-size: 20px;
-  float: left;
-  padding: 10px;
 }
 
 .header button:hover {
