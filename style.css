@@ -15,8 +15,8 @@ h1 {
 }
 
 .header button {
-  border: solid 5px #BEBEBE;
-  background: #C8C8C8;
+  border: solid 10px #c8c8c8;
+  background: #b4b4b4;
   color: white;
   font-size: 30px;
   font-family: "dot";
@@ -25,11 +25,11 @@ h1 {
 }
 
 .header button:hover {
-  border: solid 5px #AFAFAF;
-  background: #A5A5A5;
+  border: solid 10px #aaaaaa;
+  background: #969696;
 }
 
 .header button:active {
-  border: solid 5px #969696;
-  background: #8C8C8C;
+  border: solid 10px #787878;
+  background: #5a5a5a;
 }
