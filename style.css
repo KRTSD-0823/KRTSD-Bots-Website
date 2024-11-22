@@ -1,9 +1,5 @@
 @charset "utf-8";
 
-* {
-  position: relative;
-}
-
 .header {
   background-color: #e6e6e6;
   float: left;
@@ -28,6 +24,6 @@
 }
 
 .content li {
-  font-size:30px;
+  font-size: 30px;
   font-weight: bold;
 }
