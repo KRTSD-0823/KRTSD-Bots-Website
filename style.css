@@ -23,7 +23,7 @@ h1 {
   background: #969696;
 }
 
-button:active {
+.header button:active {
   border: solid 2.5px #afafaf;
   background: #646464;
 }
