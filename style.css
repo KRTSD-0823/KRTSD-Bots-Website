@@ -1,14 +1,5 @@
 @charset "utf-8";
 
-* {
-  position: relative;
-}
-
-h1 {
-  color: red;
-  text-shadow: 1px 1px 2px red;
-}
-
 .header {
   background-color: #e6e6e6;
   float: left;
@@ -16,18 +7,23 @@ h1 {
 }
 
 .header button {
+  background: #c8c8c8;
+  border: solid 2.5px #000000;
   font-size: 20px;
   color: white;
-  border: solid 2.5px #000000;
-  background: #c8c8c8;
 }
 
 .header button:hover {
-  border: solid 2.5px #000000;
   background: #969696;
+  border: solid 2.5px #000000;
 }
 
 .header button:active {
-  border: solid 2.5px #000000;
   background: #646464;
+  border: solid 2.5px #000000;
+}
+
+.content li {
+  font-size:30px;
+  font-weight: bold;
 }
