@@ -19,8 +19,8 @@ h1 {
   border: solid 2.5px #000000;
   background: #c8c8c8;
   color: white;
-  font-size: 30px;
-  font-family: "dot";
+  font-size: 20px;
+  /*font-family: "dot";*/
   float: left;
   padding: 0px 25px 10px 5px;
 }
