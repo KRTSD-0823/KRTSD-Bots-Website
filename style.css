@@ -8,23 +8,7 @@
   background-color: #e6e6e6;
   float: left;
   padding: 10px;
-}
-
-.header button {
-  background: #c8c8c8;
-  border: solid 2.5px #000000;
-  font-size: 20px;
-  color: white;
-}
-
-.header button:hover {
-  background: #969696;
-  border: solid 2.5px #000000;
-}
-
-.header button:active {
-  background: #646464;
-  border: solid 2.5px #000000;
+  position: fixed;
 }
 
 .content li {
