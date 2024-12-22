@@ -6,9 +6,18 @@
 
 .header {
   background-color: #e6e6e6;
-  float: left;
   padding: 10px;
   position: fixed;
+}
+
+.header li {
+  list-style: none;
+  float: left;
+}
+
+.header a {
+  font-size: 20px;
+  font-bold: bold;
 }
 
 .content li {
