@@ -15,9 +15,14 @@
   float: left;
 }
 
+.header li::after {
+  content: "\A";
+  white-space: pre;
+}
+
 .header a {
   font-size: 20px;
-  font-bold: bold;
+  font-weight: bold;
 }
 
 .content li {
